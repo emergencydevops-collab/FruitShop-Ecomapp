@@ -1,3 +1,3 @@
 # ecommerce-MERN-stack
 
-#Deployed : https://fruits-shop.onrender.com
+# Cheack out deployed app at : https://sparkling-rose-sheath-dress.cyclic.app/
