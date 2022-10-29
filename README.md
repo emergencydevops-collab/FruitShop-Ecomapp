@@ -53,9 +53,9 @@ Fruits-shop is a web-app that is structuresd with several features such as:
 
 
 ### 👷Built With  
-* [Express js](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)  
-* [React Js](https://angular.io/docs)
-* [Redux](https://angular.io/docs)
+* [Express js](https://expressjs.com/)  
+* [React Js](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
 
 <!-- GETTING STARTED -->  
 ##  🚖Getting Started 
@@ -83,7 +83,7 @@ Clone the project and run locally.
 ```sh  
  run locally on http://localhost:3000
  ```
- Detailed work through of running board wars can be found <a href="#built-with">here</a> 
+ Detailed work through of running Fruits Shopcan be found <a href="#built-with">here</a> 
 
 ### 🔰Back-end  
   
@@ -108,7 +108,7 @@ PAYPAL_CLIENT_ID = your paypal client id
 ## 🖲️Project in Action 
   
 _Refer to the [Documentation](https://example.com) for insights about the project._    
-* For API documentation, [click here](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html). 
+* For API documentation, [click here](https://ecommerce-api-2scd.onrender.com/). 
 
 
 ## 🌏Populate Database
